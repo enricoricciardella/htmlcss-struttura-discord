@@ -113,22 +113,29 @@ margin-top: 15px;
     background-color: hsl(120deg 60.69% 33.92%);
 }
 
-.last-sec{
+
+.last-secc{
     display: flex;
     justify-content: center;
     height: 300px;
-    background-color: hsl(0deg 0% 82.75%);
-    
-
-
-
     /* DEBUG */
     border: 1px solid white;
     background-color: black;
-
 }
 
+.large-square{
+    width: 250px;
+    background-color: aqua;
+    height: 250px;
+    border: 1px solid red;
+    margin-top: 20px;
+}
 
-
-
+.small-square{
+    background-color: blueviolet;
+    border: 1px solid red;
+    width: 125px;
+    height: 250px;
+    margin-top: 20px;
+}
 
