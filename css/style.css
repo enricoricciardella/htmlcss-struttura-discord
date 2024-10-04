@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.header{
+    height: 80%;
+    min-height: 55px;
+    justify-content: center;
+    /* DEBUG */
+    background-color: rgb(173 216 231);
+    border: 1px solid black;
+}
+
+.container{
+
+width: 70%;
+margin: auto;
+margin-top: 15px;
+
+    /* DEBUG */
+    background-color: rgb(218 165 32);
+    border: 1px solid black;
+}
+
+.row{
+    padding: 2px;
+    display: flex;
+    justify-content: space-between;
+}
+
